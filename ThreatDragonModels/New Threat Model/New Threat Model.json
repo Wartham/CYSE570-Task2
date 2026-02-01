@@ -1941,7 +1941,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Report Request"
+              "Report Reques"
             ],
             "id": "261eb4c7-2ebc-412e-b57e-d8fe698e4817",
             "source": {
@@ -1957,17 +1957,7 @@
                 "x": 530,
                 "y": 370
               }
-            ],
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead"
-              ],
-              "name": null
-            }
+            ]
           },
           {
             "position": {
